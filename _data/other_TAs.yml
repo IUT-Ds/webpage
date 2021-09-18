@@ -14,11 +14,9 @@
   image: navid.jpg
   social:
     - name: github
-      link: https://github.com/HadiEsna
+      link: https://github.com/navidnasyry
     - name: linkedin
-      link: https://www.linkedin.com/in/hadiesnaashari/
-    - name: twitter
-      link: https://twitter.com/hadiesna
+      link: https://www.linkedin.com/in/navid-nasyry-6a14b31a7/
 
 - name: Arsalan Yavari
   roles:
@@ -26,18 +24,15 @@
   image: arsalan.jpg
   social:
     - name: github
-      link: https://github.com/hamilamailee
+      link: https://github.com/arsalanyavari
     - name: linkedin
-      link: https://www.linkedin.com/in/hamila-mailee-834b07195
-
+      link: https://www.linkedin.com/in/arsalan-yavari/
 - name: Mersad HasanJani
   roles:
        - Assignments
   image: mersad.jpg
   social:
     - name: github
-      link: https://github.com/sepehrilami
+      link: https://github.com/MersadHassanjani
     - name: linkedin
-      link: https://linkedin.com/in/alirezailami
-    - name: twitter
-      link: https://twitter.com/shepelll
+      link: https://www.linkedin.com/in/mersad-hassanjani/
