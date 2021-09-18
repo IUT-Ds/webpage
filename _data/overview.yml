@@ -1,18 +1,5 @@
-title: Why choose Sharif’s AP course?
-content: "First of all, it’s free! So why not? ^__^
-  <br>
-  Also, presented by Sharif University of Technology - the best university in the country (QS
-  2017-present) -
-  this may be the best course you could get your hands on. Designed in a user-friendly manner,
-  the course consists
-  of videos, exercises, sample questions and even a project to further your knowledge and gain
-  hands-on experience.
-  Our goal is to guide you through this so-called thorn-filled path and make learning easier
-  for you.
-  <br>
-  Final word, Welcome to SUTAP!
-  <br>
-  What will you learn:"
+title: Why shoud learn Data structure?
+content: "A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures."
 items:
   - Java Programming Language
   - Object Oriented Programming
