@@ -10,10 +10,6 @@
   section: education
   navbar: true
 
-- title: Reviews
-  section: reviews
-  navbar: true
-
 - title: Contact
   section: contact
   navbar: true
