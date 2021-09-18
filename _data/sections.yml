@@ -6,11 +6,17 @@
   section: content
   navbar: true
 
+- title: Best Projects
+  section: projects
+  navbar: true
 
 - title: Education Team
   section: education
   navbar: true
 
+- title: Reviews
+  section: reviews
+  navbar: true
 
 - title: Contact
   section: contact

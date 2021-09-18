@@ -1,16 +1,16 @@
 - title: Duration
-  value: 60
+  value: 20
   icon: clock
   desc: Hours
 
 - title: Exercises
-  value: 4
+  value: 4+2 Extras
   icon: book
 
 - title: TAs
-  value: 4
+  value: 45
   icon: users
 
 - title: Students
-  value: 80+
+  value: 170+
   icon: user-circle
