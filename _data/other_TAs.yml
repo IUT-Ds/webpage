@@ -1,0 +1,43 @@
+- name: Mohammad Mahdi Barghi
+  roles:
+    - Assignments
+  image: barghi.jpg
+  social:
+    - name: github
+      link: https://github.com/mmahdibarghi
+    - name: linkedin
+      link: https://linkedin.com/in/mohammad-mahdi-barghi-23a232151
+
+- name: Navid Nasiri
+  roles:
+      - Assignments
+  image: navid.jpg
+  social:
+    - name: github
+      link: https://github.com/HadiEsna
+    - name: linkedin
+      link: https://www.linkedin.com/in/hadiesnaashari/
+    - name: twitter
+      link: https://twitter.com/hadiesna
+
+- name: Arsalan Yavari
+  roles:
+       - Assignments
+  image: arsalan.jpg
+  social:
+    - name: github
+      link: https://github.com/hamilamailee
+    - name: linkedin
+      link: https://www.linkedin.com/in/hamila-mailee-834b07195
+
+- name: Mersad HasanJani
+  roles:
+       - Assignments
+  image: mersad.jpg
+  social:
+    - name: github
+      link: https://github.com/sepehrilami
+    - name: linkedin
+      link: https://linkedin.com/in/alirezailami
+    - name: twitter
+      link: https://twitter.com/shepelll
