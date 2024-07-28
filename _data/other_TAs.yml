@@ -21,7 +21,7 @@
 - name: Arsalan Yavari
   roles:
        - Assignments
-  image: arsalan.jpg
+  image: default.jpg
   social:
     - name: github
       link: https://github.com/arsalanyavari
